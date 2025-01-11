@@ -1,26 +1,35 @@
-﻿# Python for Everybody resources
+# Python for Everybody: My Learning Resources
 
-Coursera [Python for Everybody specialization](https://www.coursera.org/specializations/python "Awesome stuff") is offered by University of Michigan.
+This repository documents my personal learning journey inspired by the [Python for Everybody](https://www.py4e.com/) resources created by Professor Charles Severance, University of Michigan.
 
 ## Overview
 
-Specialization includes following courses:
+This repository contains:
+- **Personal notes**: Summaries and insights from the courses I completed.
+- **My original code**: Solutions and scripts I wrote while working on programming exercises.
+- **Links to external resources**: Reference materials and additional readings.
 
-1. [Getting started with python](https://github.com/sersavn/coursera-python-for-everybody-specialization/tree/master/Course_1_Getting_Started_with_Python)
-2. [Python Data Structures](https://github.com/sersavn/coursera-python-for-everybody-specialization/tree/master/Course_2_Python_Data_Structures)
-3. [Using python to Access Web Data](https://github.com/sersavn/coursera-python-for-everybody-specialization/tree/master/Course_3_Using_Python_to_Acess_Web_Data)
-4. [Using Databases with Python](https://github.com/sersavn/coursera-python-for-everybody-specialization/tree/master/Course_4_Using_Databases_with_Python)
-5. [Capstone: Retrieving Processing and Visualizing Data with Python](https://github.com/sersavn/coursera-python-for-everybody-specialization/tree/master/Course_5_Capstone_Retrieving_Processing_and_Visualizing_Data_with_Python)
+## Courses Covered
 
-Each course described above contains assignments answers, course material and might contain some notes.  
-Some course slides seemed to awesome and entartaining for me, so I could not resist adding all of them here 😃.
+I followed the progression of the following courses:
+1. **Getting Started with Python**
+2. **Python Data Structures**
+3. **Using Python to Access Web Data**
+4. **Using Databases with Python**
+5. **Capstone: Retrieving, Processing, and Visualizing Data with Python**
 
-### Additional materials
+To access the official course materials, please visit:
+- [Python for Everybody on Coursera](https://www.coursera.org/specializations/python)
+- [Python for Everybody Website](https://www.py4e.com/)
 
-All additional course materials also can be found [here](https://www.py4e.com/).  
-Also [here](https://www.py4e.com/html3/) is the link to the HTML version of Charles R. Severance book.
+## Recommended Resources
 
-### Incredible Lecturer
+I highly recommend the following materials for anyone interested in Python:
+- **Book**: [Python for Everybody](https://www.py4e.com/book)
+- **Slides and Lectures**: Available on the [Python for Everybody](https://www.py4e.com/) website.
 
-Without him existing on a planet I probably would never quit civil engineering and got interest in programming at all.
-Professor Charles Severance, University of Michigan.
+## Acknowledgment
+
+This repository is inspired by the teachings of Professor Charles Severance, whose courses have had a profound impact on my career shift into programming.
+
+> **Note**: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It does not contain any copyrighted course materials or solutions provided by these platforms.
